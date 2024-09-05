@@ -1,0 +1,71 @@
+body {
+    background: url("https://img.freepik.com/free-photo/night-view-victoria-harbor-hong-kong_53876-146261.jpg?t=st=1725439818~exp=1725443418~hmac=50b0a905d79408e28de182d107fa3f902ea525a52e20ad0a3cc2c27537231398&w=1800");
+}
+
+.main-content {
+    color: white;
+    font-weight: bold;
+    <img src=".pizza.jpeg"
+}
+
+header {
+display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.uden-punkter{
+    display:flex;
+    justify-content: flex-end;
+    margin-right: 25px;
+    list-style: none;
+    color: green;
+}
+
+
+.blå {
+    color: blue;
+}
+
+footer > p {
+    color: red;
+}
+
+.push-out {
+    margin-left: 40px;
+}
+
+
+.skub1 {
+    margin-right: 25px;
+}
+
+.skub2 {
+    margin-right: 25px;
+}
+
+
+.skub3 {
+    margin-right:25px;
+}
+
+
+.location ul li:nth-child(2) {
+   color: white;
+}
+
+.uden-punkter ul li:nth-child(1){
+    margin-right:25px;
+}
+
+
+div h2{
+    color:green;
+}
+
+div nav p {
+    color:black;
+}
+
+
+
